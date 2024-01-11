@@ -43,6 +43,6 @@ Programming started out as a passion, but has become my career aspiration since 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/theSaviKing"><img src="https://github-readme-stats.vercel.app/api?username=theSaviKing&show_icons=true&hide=stars,prs,issues,contribs&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="theSaviKing's GitHub stats" /></a>
+<a href="http://www.github.com/theSaviKing"><img src="https://github-readme-stats.vercel.app/api?username=theSaviKing&show_icons=true&hide=stars,prs,issues,contribs&theme=onedark&hide_border=true&show_icons=true" alt="theSaviKing's GitHub stats" /></a>
 
-<a href="https://github.com/theSaviKing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSaviKing&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/theSaviKing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSaviKing&langs_count=5&theme=onedark&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
